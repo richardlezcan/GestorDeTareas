@@ -1,15 +1,15 @@
-# ✅ Gestor de Tareas Sencillo
+# ✅ Gestor de Tareas
 
 ## 📝 Descripción
 
-Este es un **Gestor de Tareas** minimalista que permite a los usuarios añadir nuevas tareas y eliminar las existentes. Es una herramienta básica, ideal para gestionar listas de tareas pendientes de manera sencilla y directa.
+**Gestor de Tareas** es una aplicación sencilla para gestionar tareas diarias. Permite a los usuarios **añadir** y **eliminar** tareas, proporcionando una forma fácil de mantener un seguimiento de lo que hay que hacer.
 
 ---
 
 ## 📚 Funcionalidades
 
-- **Añadir tareas**: Permite crear nuevas tareas con un nombre.
-- **Eliminar tareas**: Puedes eliminar tareas que ya no son necesarias.
+- **Añadir tareas**: Crea nuevas tareas y las agrega a la lista.
+- **Eliminar tareas**: Borra tareas que ya no son necesarias.
 
 ---
 
@@ -17,5 +17,5 @@ Este es un **Gestor de Tareas** minimalista que permite a los usuarios añadir n
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/usuario/gestor-tareas-sencillo.git
-   cd gestor-tareas-sencillo
+   git clone https://github.com/richardlezcan/GestorDeTareas.git
+   cd GestorDeTareas
